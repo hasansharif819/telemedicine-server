@@ -9,4 +9,4 @@ logs
 .vscode
 .husky
 .husky/*
-
+.vercel
