@@ -6,4 +6,7 @@ node_modules
 dist
 dump
 logs
+.vscode
+.husky
+.husky/*
 
